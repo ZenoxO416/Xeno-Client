@@ -13,3 +13,7 @@
 ```Thanks To TrilliumHQ For The Argon Base```
 ```Lvstring for Uploading Argon's SRC```
 ```Thanks Dev For Helping```
+
+# GUI
+
+![Screenshot 2025-06-01 140730](https://github.com/user-attachments/assets/ff7a0e1a-1d59-45ef-8948-79856eafd05f)
